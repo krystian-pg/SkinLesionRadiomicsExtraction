@@ -1,0 +1,15 @@
+imageType:
+  Original: {}
+  
+featureClass:
+  firstorder:
+  shape2D:
+  glszm:
+  glcm:
+  glrlm:
+  ngtdm:
+  gldm:
+
+setting:
+  # Misc:
+  label: 255

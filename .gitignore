@@ -1,0 +1,8 @@
+
+/__pycache__
+/data/HAM10000_images_part_1
+/data/HAM10000_images_part_2
+/data/HAM10000_segmentations_lesion_tschandl
+data/HAM10000_metadata
+data/ISIC2018_Task3_Test_GroundTruth.csv
+/data/ISIC2018_Task3_Test_Images
